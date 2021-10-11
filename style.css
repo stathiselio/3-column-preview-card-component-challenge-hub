@@ -37,6 +37,7 @@ margin: 0;
 font-family: var(--ff-base);
 font-size: var(--fs-400);
 line-height: 1.66;
+background: var(--clr-neutral-400);
 }
 
 a {
