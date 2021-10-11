@@ -120,6 +120,7 @@ Car type card styling
     font-size: var(--fs-500);
     color: var(--clr-neutral-400);
     line-height: 1.2;
+    margin-bottom: 0.625rem;
 }
 
 @media (min-width: 760px) {
